@@ -1,0 +1,64 @@
+.logo > img 
+    {
+        height: 80px;
+        width: 150px;
+        margin: 50px;
+       
+    }
+.heading 
+    {
+        margin-left: 290px;
+        margin-top: -200px;
+      
+       
+    }
+.menu 
+    {
+        margin-top: 40px;
+        margin-left: 250px; 
+
+    }
+.menu > ul > li 
+{
+    list-style: none;
+    display: inline;
+    margin-right: 100px;
+    font-weight: bold;
+    
+    
+   
+}
+.content {
+    margin-left: 290px;
+    margin-top: 10px;
+    margin-right: 100px;
+
+}
+.content > h4{
+    margin-right: 100px;
+}
+  
+.buttons{
+    text-align: center;
+    
+}
+.footer {
+    text-align: center;
+  
+}
+.button{
+    text-align: center;
+}
+span 
+{
+    margin-right: 100px;
+    line-height: 50px;
+}
+a 
+{
+    text-decoration: none;
+}
+.course{
+    margin-left: 290px;
+    
+}
